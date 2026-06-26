@@ -1,0 +1,6 @@
+print('Hello from hex encoding!')
+print('Hello from ROT-13!')
+print('Hello, XOR key=7 decoded!')
+print(2)
+print('Hello from base64!')
+print('=== sample2 finished ===')

@@ -1,0 +1,4 @@
+class Config:
+    MAX_STATIC_ITERATIONS = 25
+    DYNAMIC_TIMEOUT = 3
+    USE_DYNAMIC_BY_DEFAULT = True
